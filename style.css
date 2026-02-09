@@ -1,0 +1,14 @@
+body {
+    color: #000000;
+    margin: auto;
+    text-align: center;
+
+}
+
+.container {
+   max-width: 800px;
+    padding: 5%;
+    border-radius: 50px;
+    margin-top: 5%;
+    outline: 3px solid rgb(0, 0, 0);
+}
